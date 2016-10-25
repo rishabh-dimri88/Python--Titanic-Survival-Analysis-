@@ -1,5 +1,5 @@
 # Some basic questions
-who were the passengers on the titanic
+Who were the passengers on the titanic?
 ![image](https://cloud.githubusercontent.com/assets/22165575/19674234/4e54a584-9a4c-11e6-89cb-4e4fe5b497f7.png)
 
 Good number of males in 3rd class in comparison to females. 
